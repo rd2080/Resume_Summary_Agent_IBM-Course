@@ -1,0 +1,25 @@
+{
+  "name": "Candidate",
+  "facts": [
+    {
+      "id": "anaplan-model-builder",
+      "text": "Anaplan Model Builder with L1 and L2 certifications.",
+      "tags": ["Anaplan", "model building", "certification"]
+    },
+    {
+      "id": "anaplan-platform",
+      "text": "Experience includes Anaplan Way, Polaris, ALM, NUX, CloudWorks, and SCFD Data Hub.",
+      "tags": ["Anaplan", "Polaris", "ALM", "NUX", "CloudWorks", "SCFD Data Hub"]
+    },
+    {
+      "id": "planning-and-data",
+      "text": "Background includes FP&A and planning exposure, SQL and Python skills, and stakeholder-facing experience.",
+      "tags": ["FP&A", "planning", "SQL", "Python", "stakeholders"]
+    },
+    {
+      "id": "career-stage",
+      "text": "Seeking fresher and junior opportunities.",
+      "tags": ["fresher", "junior"]
+    }
+  ]
+}
